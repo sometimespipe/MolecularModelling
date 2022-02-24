@@ -1,0 +1,14 @@
+! DFT B3LYP D3 Opt
+
+#Number of iteration can be provided as below if the calculation does not converge.
+#%scf MaxIter 300 end
+
+#If your job requires more memory that can also be specified explicity.
+#Here 2000 MB is given per core.
+#%maxcore 2000
+
+#If you want to run orca in parallel on multiple cores.
+#%pal nprocs 10 end
+
+*xyzfile 0 1 ../h2o.xyz
+%base "optimisation"

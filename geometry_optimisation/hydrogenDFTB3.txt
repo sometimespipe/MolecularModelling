@@ -1,0 +1,4 @@
+! DFT B3LYP Opt
+
+*xyzfile 0 1 ../single_point_energy/hydrogen.xyz
+%base "optimisationDFTB3hydrogen"

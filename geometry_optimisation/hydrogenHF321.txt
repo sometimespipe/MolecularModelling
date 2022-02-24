@@ -1,0 +1,4 @@
+! HF 3-21G Opt
+
+*xyzfile 0 1 ../single_point_energy/hydrogen.xyz
+%base "optimisation321hydrogen"
