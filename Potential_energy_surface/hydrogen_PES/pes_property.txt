@@ -1,0 +1,2106 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:       -1.0508013996
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:       -1.0508013996
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 2
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:       -1.1216078354
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:       -1.1216078354
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 4
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:       -1.1101639645
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:       -1.1101639645
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 6
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 7
+   prop. index: 1
+        SCF Energy:       -1.0756950061
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 8
+   prop. index: 1
+        SCF Energy:       -1.0756950061
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 8
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 9
+   prop. index: 1
+        SCF Energy:       -1.0364983122
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 10
+   prop. index: 1
+        SCF Energy:       -1.0364983122
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 10
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 11
+   prop. index: 1
+        SCF Energy:       -0.9980765068
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 12
+   prop. index: 1
+        SCF Energy:       -0.9980765069
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 12
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 13
+   prop. index: 1
+        SCF Energy:       -0.9622068636
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 14
+   prop. index: 1
+        SCF Energy:       -0.9622068636
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 14
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 15
+   prop. index: 1
+        SCF Energy:       -0.9296045572
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 16
+   prop. index: 1
+        SCF Energy:       -0.9296045572
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 16
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 17
+   prop. index: 1
+        SCF Energy:       -0.9004735046
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 18
+   prop. index: 1
+        SCF Energy:       -0.9004735046
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 18
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 19
+   prop. index: 1
+        SCF Energy:       -0.8747234652
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 20
+   prop. index: 1
+        SCF Energy:       -0.8747234652
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 20
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 21
+   prop. index: 1
+        SCF Energy:       -0.8521419610
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 22
+   prop. index: 1
+        SCF Energy:       -0.8521419610
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 22
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 23
+   prop. index: 1
+        SCF Energy:       -0.8324918206
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 24
+   prop. index: 1
+        SCF Energy:       -0.8324918206
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 24
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 25
+   prop. index: 1
+        SCF Energy:       -0.8155425056
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 26
+   prop. index: 1
+        SCF Energy:       -0.8155425056
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 26
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 27
+   prop. index: 1
+        SCF Energy:       -0.8010684114
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 28
+   prop. index: 1
+        SCF Energy:       -0.8010684114
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 28
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 29
+   prop. index: 1
+        SCF Energy:       -0.7888377652
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 30
+   prop. index: 1
+        SCF Energy:       -0.7888377653
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 30
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 31
+   prop. index: 1
+        SCF Energy:       -0.7786052312
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 32
+   prop. index: 1
+        SCF Energy:       -0.7786052312
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 32
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 33
+   prop. index: 1
+        SCF Energy:       -0.7701135245
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 34
+   prop. index: 1
+        SCF Energy:       -0.7701135244
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 34
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 35
+   prop. index: 1
+        SCF Energy:       -0.7631026030
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 36
+   prop. index: 1
+        SCF Energy:       -0.7631026030
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 36
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 37
+   prop. index: 1
+        SCF Energy:       -0.7573217365
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 38
+   prop. index: 1
+        SCF Energy:       -0.7573217365
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 38
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 39
+   prop. index: 1
+        SCF Energy:       -0.7525403324
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 40
+   prop. index: 1
+        SCF Energy:       -0.7525403324
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 40
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 41
+   prop. index: 1
+        SCF Energy:       -0.7485554181
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 42
+   prop. index: 1
+        SCF Energy:       -0.7485554181
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 42
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 43
+   prop. index: 1
+        SCF Energy:       -0.7451953573
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 44
+   prop. index: 1
+        SCF Energy:       -0.7451953573
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 44
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 45
+   prop. index: 1
+        SCF Energy:       -0.7423202505
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 46
+   prop. index: 1
+        SCF Energy:       -0.7423202506
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 46
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 47
+   prop. index: 1
+        SCF Energy:       -0.7398198268
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 48
+   prop. index: 1
+        SCF Energy:       -0.7398198269
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 48
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 49
+   prop. index: 1
+        SCF Energy:       -0.7376097168
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 50
+   prop. index: 1
+        SCF Energy:       -0.7376097168
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 50
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 51
+   prop. index: 1
+        SCF Energy:       -0.7356269564
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 52
+   prop. index: 1
+        SCF Energy:       -0.7356269569
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 52
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 53
+   prop. index: 1
+        SCF Energy:       -0.7338254154
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 54
+   prop. index: 1
+        SCF Energy:       -0.7338254156
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 54
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 55
+   prop. index: 1
+        SCF Energy:       -0.7321716305
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 56
+   prop. index: 1
+        SCF Energy:       -0.7321716305
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 56
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 57
+   prop. index: 1
+        SCF Energy:       -0.7306413233
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 58
+   prop. index: 1
+        SCF Energy:       -0.7306413233
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 58
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 59
+   prop. index: 1
+        SCF Energy:       -0.7292166742
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 60
+   prop. index: 1
+        SCF Energy:       -0.7292166742
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 60
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 61
+   prop. index: 1
+        SCF Energy:       -0.7278843087
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 62
+   prop. index: 1
+        SCF Energy:       -0.7278843087
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 62
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 63
+   prop. index: 1
+        SCF Energy:       -0.7266338804
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 64
+   prop. index: 1
+        SCF Energy:       -0.7266338804
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 64
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 65
+   prop. index: 1
+        SCF Energy:       -0.7254571119
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 66
+   prop. index: 1
+        SCF Energy:       -0.7254571119
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 66
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 67
+   prop. index: 1
+        SCF Energy:       -0.7243471646
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 68
+   prop. index: 1
+        SCF Energy:       -0.7243471646
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 68
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 69
+   prop. index: 1
+        SCF Energy:       -0.7232982322
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 70
+   prop. index: 1
+        SCF Energy:       -0.7232982322
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 70
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 71
+   prop. index: 1
+        SCF Energy:       -0.7223052800
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 72
+   prop. index: 1
+        SCF Energy:       -0.7223052800
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 72
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 73
+   prop. index: 1
+        SCF Energy:       -0.7213638753
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 74
+   prop. index: 1
+        SCF Energy:       -0.7213638753
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 74
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 75
+   prop. index: 1
+        SCF Energy:       -0.7204700731
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 76
+   prop. index: 1
+        SCF Energy:       -0.7204700731
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 76
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 77
+   prop. index: 1
+        SCF Energy:       -0.7196203373
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 78
+   prop. index: 1
+        SCF Energy:       -0.7196203373
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 78
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 79
+   prop. index: 1
+        SCF Energy:       -0.7188114805
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 80
+   prop. index: 1
+        SCF Energy:       -0.7188114805
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 80
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 81
+   prop. index: 1
+        SCF Energy:       -0.7180406195
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 82
+   prop. index: 1
+        SCF Energy:       -0.7180406195
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 82
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 83
+   prop. index: 1
+        SCF Energy:       -0.7173051370
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 84
+   prop. index: 1
+        SCF Energy:       -0.7173051370
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 84
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 85
+   prop. index: 1
+        SCF Energy:       -0.7166026518
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 86
+   prop. index: 1
+        SCF Energy:       -0.7166026518
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 86
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 87
+   prop. index: 1
+        SCF Energy:       -0.7159309916
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 88
+   prop. index: 1
+        SCF Energy:       -0.7159309916
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 88
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 89
+   prop. index: 1
+        SCF Energy:       -0.7152881712
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 90
+   prop. index: 1
+        SCF Energy:       -0.7152881712
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 90
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 91
+   prop. index: 1
+        SCF Energy:       -0.7146723720
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 92
+   prop. index: 1
+        SCF Energy:       -0.7146723720
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 92
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 93
+   prop. index: 1
+        SCF Energy:       -0.7140819253
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 94
+   prop. index: 1
+        SCF Energy:       -0.7140819253
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 94
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000  -0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 95
+   prop. index: 1
+        SCF Energy:       -0.7135152971
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 96
+   prop. index: 1
+        SCF Energy:       -0.7135152971
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 96
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 97
+   prop. index: 1
+        SCF Energy:       -0.7129710746
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 98
+   prop. index: 1
+        SCF Energy:       -0.7129710746
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 98
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 99
+   prop. index: 1
+        SCF Energy:       -0.7124479545
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 100
+   prop. index: 1
+        SCF Energy:       -0.7124479545
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 100
+   prop. index: 1
+       Filename                          : pes.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000000   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000000   0.000000   0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    1
+    Coordinates:
+            H     -3.552703186575    1.369243608986    0.000000000000
+            H     -3.053626813425    1.338866391014    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    2
+    Coordinates:
+            H     -3.552703186575    1.369243608986    0.000000000000
+            H     -3.053626813425    1.338866391014    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    3
+    Coordinates:
+            H     -3.649462889957    1.375133069515    0.000000000000
+            H     -2.956867110043    1.332976930485    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    4
+    Coordinates:
+            H     -3.649462889957    1.375133069515    0.000000000000
+            H     -2.956867110043    1.332976930485    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    5
+    Coordinates:
+            H     -3.746222595979    1.381022530205    0.000000000000
+            H     -2.860107404021    1.327087469795    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    6
+    Coordinates:
+            H     -3.746222595979    1.381022530205    0.000000000000
+            H     -2.860107404021    1.327087469795    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    7
+    Coordinates:
+            H     -3.842982299361    1.386911990734    0.000000000000
+            H     -2.763347700639    1.321198009266    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    8
+    Coordinates:
+            H     -3.842982299361    1.386911990734    0.000000000000
+            H     -2.763347700639    1.321198009266    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    9
+    Coordinates:
+            H     -3.939742005383    1.392801451424    0.000000000000
+            H     -2.666587994617    1.315308548576    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    10
+    Coordinates:
+            H     -3.939742005383    1.392801451424    0.000000000000
+            H     -2.666587994617    1.315308548576    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    11
+    Coordinates:
+            H     -4.036501708765    1.398690911953    0.000000000000
+            H     -2.569828291235    1.309419088047    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    12
+    Coordinates:
+            H     -4.036501708765    1.398690911953    0.000000000000
+            H     -2.569828291235    1.309419088047    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    13
+    Coordinates:
+            H     -4.133261414787    1.404580372642    0.000000000000
+            H     -2.473068585213    1.303529627358    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    14
+    Coordinates:
+            H     -4.133261414787    1.404580372642    0.000000000000
+            H     -2.473068585213    1.303529627358    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    15
+    Coordinates:
+            H     -4.230021118169    1.410469833171    0.000000000000
+            H     -2.376308881831    1.297640166829    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    16
+    Coordinates:
+            H     -4.230021118169    1.410469833171    0.000000000000
+            H     -2.376308881831    1.297640166829    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    17
+    Coordinates:
+            H     -4.326780824191    1.416359293861    0.000000000000
+            H     -2.279549175809    1.291750706139    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    18
+    Coordinates:
+            H     -4.326780824191    1.416359293861    0.000000000000
+            H     -2.279549175809    1.291750706139    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    19
+    Coordinates:
+            H     -4.423540527573    1.422248754390    0.000000000000
+            H     -2.182789472427    1.285861245610    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    20
+    Coordinates:
+            H     -4.423540527573    1.422248754390    0.000000000000
+            H     -2.182789472427    1.285861245610    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    21
+    Coordinates:
+            H     -4.520300233595    1.428138215080    0.000000000000
+            H     -2.086029766405    1.279971784920    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    22
+    Coordinates:
+            H     -4.520300233595    1.428138215080    0.000000000000
+            H     -2.086029766405    1.279971784920    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    23
+    Coordinates:
+            H     -4.617059936977    1.434027675609    0.000000000000
+            H     -1.989270063023    1.274082324391    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    24
+    Coordinates:
+            H     -4.617059936977    1.434027675609    0.000000000000
+            H     -1.989270063023    1.274082324391    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    25
+    Coordinates:
+            H     -4.713819642999    1.439917136298    0.000000000000
+            H     -1.892510357001    1.268192863702    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    26
+    Coordinates:
+            H     -4.713819642999    1.439917136298    0.000000000000
+            H     -1.892510357001    1.268192863702    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    27
+    Coordinates:
+            H     -4.810579346381    1.445806596827    0.000000000000
+            H     -1.795750653619    1.262303403173    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    28
+    Coordinates:
+            H     -4.810579346381    1.445806596827    0.000000000000
+            H     -1.795750653619    1.262303403173    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    29
+    Coordinates:
+            H     -4.907339052404    1.451696057517    0.000000000000
+            H     -1.698990947596    1.256413942483    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    30
+    Coordinates:
+            H     -4.907339052404    1.451696057517    0.000000000000
+            H     -1.698990947596    1.256413942483    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    31
+    Coordinates:
+            H     -5.004098755785    1.457585518046    0.000000000000
+            H     -1.602231244215    1.250524481954    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    32
+    Coordinates:
+            H     -5.004098755785    1.457585518046    0.000000000000
+            H     -1.602231244215    1.250524481954    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    33
+    Coordinates:
+            H     -5.100858461808    1.463474978736    0.000000000000
+            H     -1.505471538192    1.244635021264    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    34
+    Coordinates:
+            H     -5.100858461808    1.463474978736    0.000000000000
+            H     -1.505471538192    1.244635021264    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    35
+    Coordinates:
+            H     -5.197618165189    1.469364439265    0.000000000000
+            H     -1.408711834811    1.238745560735    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    36
+    Coordinates:
+            H     -5.197618165189    1.469364439265    0.000000000000
+            H     -1.408711834811    1.238745560735    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    37
+    Coordinates:
+            H     -5.294377871212    1.475253899955    0.000000000000
+            H     -1.311952128788    1.232856100045    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    38
+    Coordinates:
+            H     -5.294377871212    1.475253899955    0.000000000000
+            H     -1.311952128788    1.232856100045    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    39
+    Coordinates:
+            H     -5.391137574593    1.481143360483    0.000000000000
+            H     -1.215192425407    1.226966639516    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    40
+    Coordinates:
+            H     -5.391137574593    1.481143360483    0.000000000000
+            H     -1.215192425407    1.226966639516    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    41
+    Coordinates:
+            H     -5.487897280616    1.487032821173    0.000000000000
+            H     -1.118432719384    1.221077178827    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    42
+    Coordinates:
+            H     -5.487897280616    1.487032821173    0.000000000000
+            H     -1.118432719384    1.221077178827    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    43
+    Coordinates:
+            H     -5.584656983997    1.492922281702    0.000000000000
+            H     -1.021673016003    1.215187718298    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    44
+    Coordinates:
+            H     -5.584656983997    1.492922281702    0.000000000000
+            H     -1.021673016003    1.215187718298    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    45
+    Coordinates:
+            H     -5.681416690020    1.498811742392    0.000000000000
+            H     -0.924913309980    1.209298257608    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    46
+    Coordinates:
+            H     -5.681416690020    1.498811742392    0.000000000000
+            H     -0.924913309980    1.209298257608    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    47
+    Coordinates:
+            H     -5.778176393401    1.504701202921    0.000000000000
+            H     -0.828153606599    1.203408797079    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    48
+    Coordinates:
+            H     -5.778176393401    1.504701202921    0.000000000000
+            H     -0.828153606599    1.203408797079    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    49
+    Coordinates:
+            H     -5.874936099424    1.510590663611    0.000000000000
+            H     -0.731393900576    1.197519336389    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    50
+    Coordinates:
+            H     -5.874936099424    1.510590663611    0.000000000000
+            H     -0.731393900576    1.197519336389    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    51
+    Coordinates:
+            H     -5.971695802805    1.516480124140    0.000000000000
+            H     -0.634634197195    1.191629875860    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    52
+    Coordinates:
+            H     -5.971695802805    1.516480124140    0.000000000000
+            H     -0.634634197195    1.191629875860    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    53
+    Coordinates:
+            H     -6.068455508828    1.522369584829    0.000000000000
+            H     -0.537874491172    1.185740415171    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    54
+    Coordinates:
+            H     -6.068455508828    1.522369584829    0.000000000000
+            H     -0.537874491172    1.185740415171    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    55
+    Coordinates:
+            H     -6.165215212210    1.528259045358    0.000000000000
+            H     -0.441114787790    1.179850954642    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    56
+    Coordinates:
+            H     -6.165215212210    1.528259045358    0.000000000000
+            H     -0.441114787790    1.179850954642    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    57
+    Coordinates:
+            H     -6.261974918232    1.534148506048    0.000000000000
+            H     -0.344355081768    1.173961493952    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    58
+    Coordinates:
+            H     -6.261974918232    1.534148506048    0.000000000000
+            H     -0.344355081768    1.173961493952    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    59
+    Coordinates:
+            H     -6.358734621614    1.540037966577    0.000000000000
+            H     -0.247595378386    1.168072033423    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    60
+    Coordinates:
+            H     -6.358734621614    1.540037966577    0.000000000000
+            H     -0.247595378386    1.168072033423    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    61
+    Coordinates:
+            H     -6.455494327636    1.545927427267    0.000000000000
+            H     -0.150835672364    1.162182572733    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    62
+    Coordinates:
+            H     -6.455494327636    1.545927427267    0.000000000000
+            H     -0.150835672364    1.162182572733    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    63
+    Coordinates:
+            H     -6.552254031018    1.551816887796    0.000000000000
+            H     -0.054075968982    1.156293112204    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    64
+    Coordinates:
+            H     -6.552254031018    1.551816887796    0.000000000000
+            H     -0.054075968982    1.156293112204    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    65
+    Coordinates:
+            H     -6.649013737040    1.557706348485    0.000000000000
+            H      0.042683737040    1.150403651515    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    66
+    Coordinates:
+            H     -6.649013737040    1.557706348485    0.000000000000
+            H      0.042683737040    1.150403651515    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    67
+    Coordinates:
+            H     -6.745773440422    1.563595809014    0.000000000000
+            H      0.139443440422    1.144514190986    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    68
+    Coordinates:
+            H     -6.745773440422    1.563595809014    0.000000000000
+            H      0.139443440422    1.144514190986    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    69
+    Coordinates:
+            H     -6.842533146444    1.569485269704    0.000000000000
+            H      0.236203146444    1.138624730296    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    70
+    Coordinates:
+            H     -6.842533146444    1.569485269704    0.000000000000
+            H      0.236203146444    1.138624730296    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    71
+    Coordinates:
+            H     -6.939292849826    1.575374730233    0.000000000000
+            H      0.332962849826    1.132735269767    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    72
+    Coordinates:
+            H     -6.939292849826    1.575374730233    0.000000000000
+            H      0.332962849826    1.132735269767    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    73
+    Coordinates:
+            H     -7.036052553207    1.581264190762    0.000000000000
+            H      0.429722553207    1.126845809238    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    74
+    Coordinates:
+            H     -7.036052553207    1.581264190762    0.000000000000
+            H      0.429722553207    1.126845809238    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    75
+    Coordinates:
+            H     -7.132812259230    1.587153651452    0.000000000000
+            H      0.526482259230    1.120956348548    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    76
+    Coordinates:
+            H     -7.132812259230    1.587153651452    0.000000000000
+            H      0.526482259230    1.120956348548    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    77
+    Coordinates:
+            H     -7.229571962611    1.593043111981    0.000000000000
+            H      0.623241962612    1.115066888019    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    78
+    Coordinates:
+            H     -7.229571962611    1.593043111981    0.000000000000
+            H      0.623241962612    1.115066888019    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    79
+    Coordinates:
+            H     -7.326331668634    1.598932572670    0.000000000000
+            H      0.720001668634    1.109177427330    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    80
+    Coordinates:
+            H     -7.326331668634    1.598932572670    0.000000000000
+            H      0.720001668634    1.109177427330    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    81
+    Coordinates:
+            H     -7.423091372016    1.604822033199    0.000000000000
+            H      0.816761372016    1.103287966801    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    82
+    Coordinates:
+            H     -7.423091372016    1.604822033199    0.000000000000
+            H      0.816761372016    1.103287966801    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    83
+    Coordinates:
+            H     -7.519851078038    1.610711493889    0.000000000000
+            H      0.913521078038    1.097398506111    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    84
+    Coordinates:
+            H     -7.519851078038    1.610711493889    0.000000000000
+            H      0.913521078038    1.097398506111    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    85
+    Coordinates:
+            H     -7.616610781420    1.616600954418    0.000000000000
+            H      1.010280781420    1.091509045582    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    86
+    Coordinates:
+            H     -7.616610781420    1.616600954418    0.000000000000
+            H      1.010280781420    1.091509045582    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    87
+    Coordinates:
+            H     -7.713370487442    1.622490415108    0.000000000000
+            H      1.107040487442    1.085619584892    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    88
+    Coordinates:
+            H     -7.713370487442    1.622490415108    0.000000000000
+            H      1.107040487442    1.085619584892    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    89
+    Coordinates:
+            H     -7.810130190824    1.628379875637    0.000000000000
+            H      1.203800190824    1.079730124363    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    90
+    Coordinates:
+            H     -7.810130190824    1.628379875637    0.000000000000
+            H      1.203800190824    1.079730124363    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    91
+    Coordinates:
+            H     -7.906889896846    1.634269336326    0.000000000000
+            H      1.300559896846    1.073840663674    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    92
+    Coordinates:
+            H     -7.906889896846    1.634269336326    0.000000000000
+            H      1.300559896846    1.073840663674    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    93
+    Coordinates:
+            H     -8.003649600228    1.640158796855    0.000000000000
+            H      1.397319600228    1.067951203145    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    94
+    Coordinates:
+            H     -8.003649600228    1.640158796855    0.000000000000
+            H      1.397319600228    1.067951203145    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    95
+    Coordinates:
+            H     -8.100409306250    1.646048257545    0.000000000000
+            H      1.494079306250    1.062061742455    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    96
+    Coordinates:
+            H     -8.100409306250    1.646048257545    0.000000000000
+            H      1.494079306250    1.062061742455    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    97
+    Coordinates:
+            H     -8.197169009632    1.651937718074    0.000000000000
+            H      1.590839009632    1.056172281926    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    98
+    Coordinates:
+            H     -8.197169009632    1.651937718074    0.000000000000
+            H      1.590839009632    1.056172281926    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    99
+    Coordinates:
+            H     -8.293928715654    1.657827178764    0.000000000000
+            H      1.687598715654    1.050282821236    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    100
+    Coordinates:
+            H     -8.293928715654    1.657827178764    0.000000000000
+            H      1.687598715654    1.050282821236    0.000000000000

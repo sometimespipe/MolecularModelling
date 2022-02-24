@@ -1,0 +1,10 @@
+! HF 3-21G Opt
+%geom Scan
+B 1 0 = 0.5, 10.0, 50
+# Scan the bond between atom 0 and atom 1
+# from distance 0.5  ̊A to 10.0  ̊A in 50 points.
+end
+end
+*xyzfile 0 1 hydrogen.xyz
+
+ 
