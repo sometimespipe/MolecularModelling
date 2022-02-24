@@ -1,0 +1,8 @@
+! HF 6-31G* Opt Freq
+
+#%scf MaxIter 300 end
+#%maxcore 2000
+#%pal nprocs 10 end
+
+*xyzfile 0 1 ../../h2o.xyz
+%base "frequency"
