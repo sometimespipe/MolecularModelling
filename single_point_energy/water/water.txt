@@ -1,0 +1,7 @@
+#Hartree Fock
+!HF DEF2-SVP
+
+#filename
+
+*xyzfile 0 1 water.xyz
+%base "single_point_water"

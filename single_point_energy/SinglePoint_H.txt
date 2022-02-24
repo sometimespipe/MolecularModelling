@@ -1,0 +1,4 @@
+!HF 3-21G
+
+*xyzfile 0 1 hydrogen.xyz
+%base "single_point_hydrogen"

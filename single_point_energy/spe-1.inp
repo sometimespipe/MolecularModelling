@@ -1,0 +1,9 @@
+#Hartree Fock and 3-21G basis set
+! HF 3-21G
+
+#file format, charge, spin multiplicity
+*xyz 0 1 
+H         -1.72100        1.66900        1.04900
+H         -1.13100        3.12000        1.10200
+O         -1.23700        2.33700        0.55800
+*

@@ -1,0 +1,7 @@
+#Hartree Fock and basis set
+! HF 3-21G
+
+#Here you can also provide the name of your file.
+#!! Please check if the file is present in the same folder or not.
+*xyzfile 0 1 h2o.xyz
+%base "single_point"
